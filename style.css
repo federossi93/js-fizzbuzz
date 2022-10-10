@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+
+li{
+    margin: 0.5rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width:150px;
+    height: 150px;
+    background-color: blue;
+}
